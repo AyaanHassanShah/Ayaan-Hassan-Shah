@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ab18b7f-9459-4b6c-ba0d-39d73247fc5e)<h1 align="center">Hi 👋, I'm Syed Ayaan Hassan Shah</h1>
+<h1 align="center">Hi 👋, I'm Syed Ayaan Hassan Shah</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
